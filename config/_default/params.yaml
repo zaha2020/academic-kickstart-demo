@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Academic
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Academic website of Zahra Habibzadeh'
+    twitter: 'zaha_habibzadeh'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,12 +43,12 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    notice: '© {year} Me.'
+    #license:
+    #  enable: true
+    #  allow_derivatives: false
+    #  share_alike: true
+    #  allow_commercial: false
 
 # Localization
 
@@ -88,10 +88,10 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 15
+  #map:
+  #  provider: ''
+  #  api_key: ''
+  #  zoom: 15
 
 # Extensions
 
