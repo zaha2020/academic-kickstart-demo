@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Researcher
+    company: TEHRAN INSTiTUTE FOR ADVANCED STUDiES (TEIAS)
+    # company_url: 'https://github.com/HooshBaaz'
+    location: Tehran, Iran
+    date_start: '2025-05-01'
+    date_end: 'Present'
+    description: |2-
+        Responsibilities include:
+        
+        * Conductingresearch on story generation using LLMs, with a focusonaligning narratives to cultural contexts and value systems
+
   - title: Mentor
     company: HooshBaaz Summer School - University of Tehran
     company_url: 'https://github.com/HooshBaaz'
@@ -49,5 +60,5 @@ experience:
          * Statistical Inference
        
 design:
-  columns: '2'
+  columns: '3'
 ---
